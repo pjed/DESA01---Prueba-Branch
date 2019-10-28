@@ -49,6 +49,6 @@ public class Suma {
 
     @Override
     public String toString() {
-        return "Suma{" + "num1=" + num1 + ", num2=" + num2 + ", resultado=" + resultado + '}';
+        return "SumaRama{" + "num1=" + num1 + ", num2=" + num2 + ", resultado=" + resultado + '}';
     }
 }
