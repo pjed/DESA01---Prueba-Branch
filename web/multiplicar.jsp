@@ -1,7 +1,7 @@
 <%-- 
-    Document   : suma
-    Created on : 28-oct-2019, 8:45:24
-    Author     : daw201
+    Document   : multiplicar
+    Created on : 28-oct-2019, 9:48:12
+    Author     : alvaro
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,9 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Suma</title>
+        <title>Multiplicar</title>
     </head>
     <body>
-        <h1>SUMA</h1>
+        <h1>MULTIPLICA!</h1>
     </body>
 </html>

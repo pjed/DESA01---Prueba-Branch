@@ -13,5 +13,7 @@
     </head>
     <body>
         <h1>RESTA!</h1>
+        
+        <footer>Hola</footer>
     </body>
 </html>
