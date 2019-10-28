@@ -1,7 +1,7 @@
 <%-- 
-    Document   : Hago la resta
-    Created on : 28-oct-2019, 8:44:17
-    Author     : Álvaro Donoso
+    Document   : multiplicar
+    Created on : 28-oct-2019, 9:48:12
+    Author     : alvaro
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -9,11 +9,9 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Resta</title>
+        <title>Multiplicar</title>
     </head>
     <body>
-        <h1>RESTA!</h1>
-        
-        <footer>Hola</footer>
+        <h1>MULTIPLICA!</h1>
     </body>
 </html>
